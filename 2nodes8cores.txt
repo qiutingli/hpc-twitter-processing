@@ -1,0 +1,31 @@
+2020-04-10 22:39:08,752 - __main__ - INFO - The Application Started at: 2020-04-10 22:39:08.752931
+2020-04-10 22:46:08,005 - __main__ - INFO - The Application Ended at: 2020-04-10 22:46:08.005287
+2020-04-10 22:46:08,005 - __main__ - INFO - The Application Execution Took: 0:06:59.252356 In Total
+
+
+Top 10 Hashtags Are: 
+1. #auspol, 19818
+2. #coronavirus, 10027
+3. #มาพ, 7531
+4. #firefightaustralia, 6784
+5. #oldme, 6418
+6. #sydney, 6225
+7. #grammys, 5079
+8. #scottyfrommarketing, 5064
+9. #assange, 4687
+10. #sportsrorts, 4507
+
+
+Top 10 Languages Used Are: 
+1. English(en), 3107116
+2. Undefined(und), 252117
+3. Thai(th), 134571
+4. Portuguese(pt), 125858
+5. Spanish(es), 74028
+6. Japanese(ja), 49929
+7. Tagalog(tl), 44560
+8. Indonesian(in), 42296
+9. French(fr), 38098
+10. Arabic(ar), 24501
+
+
